@@ -1,1 +1,2 @@
 This is a new file in folder 3
+add another file fir next commit
